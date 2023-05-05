@@ -1,0 +1,25 @@
+{
+    "name": "hiteshvala/google-map-marker",
+    "description": "A Laravel package for getting the latitude and longitude when clicking on a Google Map.",
+    "keywords": ["laravel", "google maps", "latitude", "longitude"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HiteshVala",
+            "email": "hitesh.v@samcomtechnobrains.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0",
+        "illuminate/support": "^8.0|^9.0",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "HiteshVala\\GoogleMapMarker\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
