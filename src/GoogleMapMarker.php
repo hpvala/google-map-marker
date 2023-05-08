@@ -47,4 +47,34 @@ class GoogleMapMarker
 
         return $result;
     }
+
+    /**
+     * Get timezone of passed location
+     *
+     * @param float $lat
+     * @param float $lng
+     * @param null|timestamp $timestamp
+     * @return array|null
+     */
+    public function getTimezone($lat, $lng, $timestamp = null): ?array
+    {
+        $client = new Client();
+
+        $query = [
+            'location' => "{$lat},{$lng}",
+            'key' => $this->apiKey,
+        ];
+
+        if ($timestamp) {
+            $query['timestamp'] = $timestamp;
+        }
+
+        $response = $client->get('https://maps.googleapis.com/maps/api/timezone/json', [
+            'query' => $query,
+        ]);
+
+        $result = json_decode($response->getBody()->getContents(), true);
+
+        return $result;
+    }
 }
