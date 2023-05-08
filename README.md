@@ -2,6 +2,7 @@
 
 [![Latest Version](https://img.shields.io/github/v/release/hiteshsamcom/google-map-marker.svg?style=flat-square)](https://github.com/hiteshsamcom/google-map-marker/releases)
 [![Total Downloads](https://img.shields.io/packagist/dt/hiteshvala/google-map-marker.svg?style=flat-square)](https://packagist.org/packages/hiteshvala/google-map-marker)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hiteshsamcom/google-map-marker)
 
 Install package
 
