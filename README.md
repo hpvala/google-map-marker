@@ -17,7 +17,17 @@ $marker = new GoogleMapMarker($apiKey);
 
 $location = $marker->getLocationDetails($lat, $lng);
 
-$address = $marker->getAddressDetails($address);
+```
 
+
+To get address details based on full address of location calling the `getAddressDetails` method with the address parameters.
+```php
+$address = $marker->getAddressDetails($address);
+```
+
+
+To get a timezone based on location calling the `getTimezone` method with the latitude and longitude parameters, make sure you map key have timezone API access.
+```php
+$timezone = $marker->getTimezone($lat, $lng);
 ```
 
