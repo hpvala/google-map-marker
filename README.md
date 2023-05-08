@@ -1,5 +1,7 @@
 # Get Details of Google Map Location
 
+[![Latest Version](https://img.shields.io/github/v/release/hiteshsamcom/google-map-marker.svg?style=flat-square)](https://github.com/hiteshsamcom/google-map-marker/releases)
+
 Install package
 
 ```php
