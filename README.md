@@ -26,7 +26,7 @@ $address = $marker->getAddressDetails($address);
 ```
 
 
-To get a timezone based on location calling the `getTimezone` method with the latitude and longitude parameters, make sure you map key have timezone API access.
+To get a timezone based on location calling the `getTimezone` method with the latitude and longitude parameters, make sure your map key have timezone API access.
 ```php
 $timezone = $marker->getTimezone($lat, $lng);
 ```
