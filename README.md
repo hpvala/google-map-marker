@@ -17,7 +17,7 @@ $marker = new GoogleMapMarker($apiKey);
 
 $location = $marker->getLocationDetails($lat, $lng);
 
-// Do something with the location details
+$address = $marker->getAddressDetails($address);
 
 ```
 
