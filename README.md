@@ -1,8 +1,12 @@
 # Get Details of Google Map Location
 
-[![Latest Version](https://img.shields.io/github/v/release/hiteshsamcom/google-map-marker.svg?style=flat-square)](https://github.com/hiteshsamcom/google-map-marker/releases)
-[![Total Downloads](https://img.shields.io/packagist/dt/hiteshvala/google-map-marker.svg?style=flat-square)](https://packagist.org/packages/hiteshvala/google-map-marker)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hiteshsamcom/google-map-marker)
+<p align="center"><a href="https://github.com/hiteshsamcom/google-map-marker" target="_blank"><img src="https://www.samcomtechnobrains.com/gruvonsi/2023/05/hitesh_vala.png" width="150" alt="Hitesh Logo"></a></p>
+
+<p align="center">
+<a href="https://packagist.org/packages/hiteshvala/google-map-marker"><img src="https://img.shields.io/packagist/dt/hiteshvala/google-map-marker.svg?style=flat-square" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/hiteshvala/google-map-marker"><img src="https://img.shields.io/github/v/release/hiteshsamcom/google-map-marker.svg?style=flat-square" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/hiteshvala/google-map-marker"><img src="https://img.shields.io/github/languages/code-size/hiteshsamcom/google-map-marker" alt="Code Size"></a>
+</p>
 
 Install package
 
