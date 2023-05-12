@@ -1,6 +1,6 @@
 # Get Details of Google Map Location
 
-<p align="center"><a href="https://github.com/hiteshsamcom/google-map-marker" target="_blank"><img src="https://www.samcomtechnobrains.com/gruvonsi/2023/05/hitesh_vala.png" width="150" alt="Hitesh Logo"></a></p>
+<p align="center"><a href="https://github.com/hiteshsamcom/google-map-marker" target="_blank"><img src="https://avatars.githubusercontent.com/u/92365321?v=4" width="150" alt="Hitesh Logo"></a></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/hiteshvala/google-map-marker"><img src="https://img.shields.io/packagist/dt/hiteshvala/google-map-marker.svg?style=flat-square" alt="Total Downloads"></a>
